@@ -8,7 +8,7 @@ function Footer() {
         <div className="website" style={{width:'400px'}}> 
 
         <h4>
-          <i className='fa-solid fa-truck-fast me-2'></i>  Project Fair
+          <i className='fa-brands fa-stack-overflow fa-bounce me-2'></i>  Project Fair
             </h4>
         <h6>Designed and built with all the love in the world by our team with the help of some contributors</h6>
         <h6>Code licensed Luminar, docs CC BY 3.0</h6>
